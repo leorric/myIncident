@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>MyIncident</name>
+        <order>100</order>
+        <roles>x_292069_myinciden.myincident_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-22 05:44:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7f6f415db332300c255ab7dca9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyIncident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyIncident" source="x_292069_myinciden">69d4b811db332300c255ab7dca961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyIncident">69d4b811db332300c255ab7dca961981</sys_scope>
+        <sys_update_name>sys_app_application_d7f6f415db332300c255ab7dca9619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-22 05:44:16</sys_updated_on>
+        <title>MyIncident</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
